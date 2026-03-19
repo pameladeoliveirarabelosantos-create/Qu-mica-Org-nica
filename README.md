@@ -29,7 +29,7 @@ https://www.manualdaquimica.com/quimica-organica/isomeria.htm
   https://www.youtube.com/watch?v=sEBzyUxEHOA
 </li>
 </ul>
-Engenharia de Prompts e "Cicatrizes": as perguntas e prompts estratégicos foram
+Engenharia de Prompts e "Cicatrizes": as perguntas e prompts estratégicos foram <br>
 Quais são as funções carbônicas? Explique-me de uma maneira que seja fácil de entender e me lembrar depois
 Olá! Como seu professor de Química Orgânica, vou te explicar as funções orgânicas (também chamadas de carbônicas) de um jeito que você nunca mais vai esquecer. Imagine que as funções são como "famílias" de moléculas: cada família tem um sobrenome e um comportamento parecido
 .
