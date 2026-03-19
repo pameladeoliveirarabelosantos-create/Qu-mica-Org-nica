@@ -1,5 +1,5 @@
 Contexto e Objetivos: O assunto escolhido foi Química Orgânica. O objetivo deste caderno temático do NoteboolLM é ser um segundo cérebro, ajudando a mim e outros graduandos de Química que possuem dificuldade nesta área.
-Curadoria de Fontes: <br>
+<br> Curadoria de Fontes: 
 <ul>
   <li>
 https://www2.unifap.br/unienem/files/2023/06/AP4-QUIMICA-2-INTRODUCAO-A-QUIMICA-ORGANICA.pdf
