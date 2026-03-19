@@ -1,14 +1,34 @@
 Contexto e Objetivos: O assunto escolhido foi Química Orgânica. O objetivo deste caderno temático do NoteboolLM é ser um segundo cérebro, ajudando a mim e outros graduandos de Química que possuem dificuldade nesta área.
 Curadoria de Fontes:
+<ul>
+  <li>
 https://www2.unifap.br/unienem/files/2023/06/AP4-QUIMICA-2-INTRODUCAO-A-QUIMICA-ORGANICA.pdf
-https://www.soquimica.com.br/conteudos/em/reacoesorganicas/
+  </li>
+  <li>
+    https://www.soquimica.com.br/conteudos/em/reacoesorganicas/
+  </li>
+  <li>
 https://www.manualdaquimica.com/quimica-organica/isomeria.htm
-https://www.manualdaquimica.com/quimica-organica/reacoes-organicas.htm
-https://www.youtube.com/watch?v=BDmo-yGv0L4
-https://www.youtube.com/watch?v=o1zyNaogsRo
-https://www.youtube.com/watch?v=fY8E1dhNGNc
-https://www.youtube.com/watch?v=Q_5rB0iF6oI
-https://www.youtube.com/watch?v=sEBzyUxEHOA
+  </li>
+  <li>
+    https://www.manualdaquimica.com/quimica-organica/reacoes-organicas.htm
+  </li>
+  <li>
+    https://www.youtube.com/watch?v=BDmo-yGv0L4
+</li>
+  <li>
+    https://www.youtube.com/watch?v=o1zyNaogsRo
+</li>
+  <li>
+  https://www.youtube.com/watch?v=fY8E1dhNGNc
+</li>
+  <li>
+  https://www.youtube.com/watch?v=Q_5rB0iF6oI
+</li>
+  <li>
+  https://www.youtube.com/watch?v=sEBzyUxEHOA
+</li>
+</ul>
 Engenharia de Prompts e "Cicatrizes": as perguntas e prompts estratégicos foram
 Quais são as funções carbônicas? Explique-me de uma maneira que seja fácil de entender e me lembrar depois
 Olá! Como seu professor de Química Orgânica, vou te explicar as funções orgânicas (também chamadas de carbônicas) de um jeito que você nunca mais vai esquecer. Imagine que as funções são como "famílias" de moléculas: cada família tem um sobrenome e um comportamento parecido
