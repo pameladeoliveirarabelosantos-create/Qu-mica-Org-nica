@@ -69,8 +69,6 @@ Dica para lembrar: Se aparecer um "N" na estrutura, grandes chances de ser uma f
 São moléculas que contêm elementos da Família 17 da Tabela Periódica, como Flúor (F), Cloro (Cl), Bromo (Br) ou Iodo (I)
 . Um exemplo comum é o PVC (policloreto de vinila) usado em canos
 .
-
---------------------------------------------------------------------------------
 Como lembrar de tudo isso? (O Pulo do Gato)
 Para não esquecer, tente associar o sufixo (o final do nome) à função
 :
@@ -121,7 +119,6 @@ Miniguia de Estudo: <br>
 Resumo: A química orgânica é o ramo da química que estuda os compostos de carbono, fundamentais para a vida e para diversas aplicações industriais. Ela envolve estruturas, propriedades, isomeria e reações que explicam desde biomoléculas até materiais sintéticos.
 Glossário com os principais conceitos aprendidos: <br>
 | Aspecto              | Detalhes principais | <br>
-|----------------------|---------------------| <br>
 | Definição            | Compostos de carbono | <br>
 | Elementos envolvidos | C, H, O, N, P, S | <br>
 | Histórico            | Wöhler sintetiza ureia (1828) | <br>
