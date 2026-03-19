@@ -97,3 +97,20 @@ Essas moléculas são imagens especulares uma da outra, como a mão direita e a 
 Elas se diferenciam pela forma como desviam a luz polarizada (dextrogiro para a direita e levogiro para a esquerda) e pelos seus efeitos fisiológicos no organismo
 .
 Dominar essas divisões ajudará você a prever como substâncias aparentemente iguais podem se comportar de maneiras completamente diferentes na natureza e em laboratório
+Miniguia de Estudo:
+Resumo: A química orgânica é o ramo da química que estuda os compostos de carbono, fundamentais para a vida e para diversas aplicações industriais. Ela envolve estruturas, propriedades, isomeria e reações que explicam desde biomoléculas até materiais sintéticos.
+Glossário com os principais conceitos aprendidos:
+| Aspecto              | Detalhes principais |
+|----------------------|---------------------|
+| Definição            | Compostos de carbono |
+| Elementos envolvidos | C, H, O, N, P, S |
+| Histórico            | Wöhler sintetiza ureia (1828) |
+| Isomeria             | Estrutural e espacial |
+| Reações              | Substituição, adição, eliminação, oxidação/redução |
+| Aplicações           | Biologia, indústria, saúde, energia |
+Conjunto de prompts reutilizáveis para estudo:
+"Explique de forma resumida os principais grupos funcionais da química orgânica."
+
+"Resuma os tipos de isomeria em química orgânica com exemplos simples."
+
+"Liste os conceitos fundamentais da química orgânica em formato de tabela."
