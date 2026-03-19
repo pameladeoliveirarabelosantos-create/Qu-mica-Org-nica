@@ -30,7 +30,7 @@ https://www.manualdaquimica.com/quimica-organica/isomeria.htm
 </li>
 </ul>
 Engenharia de Prompts e "Cicatrizes": as perguntas e prompts estratégicos foram <br>
-Quais são as funções carbônicas? Explique-me de uma maneira que seja fácil de entender e me lembrar depois
+Quais são as funções carbônicas? Explique-me de uma maneira que seja fácil de entender e me lembrar depois <br>
 Olá! Como seu professor de Química Orgânica, vou te explicar as funções orgânicas (também chamadas de carbônicas) de um jeito que você nunca mais vai esquecer. Imagine que as funções são como "famílias" de moléculas: cada família tem um sobrenome e um comportamento parecido
 .
 O que define a qual família uma molécula pertence é o seu grupo funcional, que é um agrupamento específico de átomos que aparece na estrutura
@@ -82,7 +82,7 @@ Além disso, sempre procure o "intruso" na cadeia de carbonos
 . Se não tiver intruso (só C e H), é hidrocarboneto. Se o intruso for O, é oxigenada; se for N, é nitrogenada; e se for um Cl ou Br, é halogenada
 .
 
-Quais são os conceitos básicos de isomeria que preciso dominar para facilitar o restante? Explique-me cada um deles
+Quais são os conceitos básicos de isomeria que preciso dominar para facilitar o restante? Explique-me cada um deles <br>
 Para dominar a Química Orgânica, você precisa entender que a isomeria é o fenômeno em que compostos diferentes possuem a mesma fórmula molecular (mesmo número e tipo de átomos), mas apresentam estruturas e propriedades físicas e químicas distintas
 . Esse fenômeno é muito comum devido à capacidade do carbono de formar quatro ligações e criar diversas cadeias
 .
@@ -117,20 +117,20 @@ Essas moléculas são imagens especulares uma da outra, como a mão direita e a 
 Elas se diferenciam pela forma como desviam a luz polarizada (dextrogiro para a direita e levogiro para a esquerda) e pelos seus efeitos fisiológicos no organismo
 .
 Dominar essas divisões ajudará você a prever como substâncias aparentemente iguais podem se comportar de maneiras completamente diferentes na natureza e em laboratório
-Miniguia de Estudo:
+Miniguia de Estudo: <br>
 Resumo: A química orgânica é o ramo da química que estuda os compostos de carbono, fundamentais para a vida e para diversas aplicações industriais. Ela envolve estruturas, propriedades, isomeria e reações que explicam desde biomoléculas até materiais sintéticos.
-Glossário com os principais conceitos aprendidos:
-| Aspecto              | Detalhes principais |
-|----------------------|---------------------|
-| Definição            | Compostos de carbono |
-| Elementos envolvidos | C, H, O, N, P, S |
-| Histórico            | Wöhler sintetiza ureia (1828) |
-| Isomeria             | Estrutural e espacial |
-| Reações              | Substituição, adição, eliminação, oxidação/redução |
-| Aplicações           | Biologia, indústria, saúde, energia |
-Conjunto de prompts reutilizáveis para estudo:
-"Explique de forma resumida os principais grupos funcionais da química orgânica."
+Glossário com os principais conceitos aprendidos: <br>
+| Aspecto              | Detalhes principais | <br>
+|----------------------|---------------------| <br>
+| Definição            | Compostos de carbono | <br>
+| Elementos envolvidos | C, H, O, N, P, S | <br>
+| Histórico            | Wöhler sintetiza ureia (1828) | <br>
+| Isomeria             | Estrutural e espacial | <br>
+| Reações              | Substituição, adição, eliminação, oxidação/redução | <br>
+| Aplicações           | Biologia, indústria, saúde, energia | <br>
+Conjunto de prompts reutilizáveis para estudo: <br>
+"Explique de forma resumida os principais grupos funcionais da química orgânica." <br>
 
-"Resuma os tipos de isomeria em química orgânica com exemplos simples."
+"Resuma os tipos de isomeria em química orgânica com exemplos simples." <br>
 
-"Liste os conceitos fundamentais da química orgânica em formato de tabela."
+"Liste os conceitos fundamentais da química orgânica em formato de tabela." <br>
